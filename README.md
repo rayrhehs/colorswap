@@ -1,5 +1,4 @@
 # colorswap
-My attempt at automating the pixel art development process. It's awful and is very simple but I am proud of it. 
 
 Notes: 
 
